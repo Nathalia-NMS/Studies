@@ -1,3 +1,6 @@
+#Hogwarts Sorting Hat 🧙‍♂️
+#Begginers
+
 Gryffindor = 0
 Ravenclaw = 0
 Hufflepuff = 0
